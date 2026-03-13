@@ -20,7 +20,7 @@
 # username = ""
 # password = ""
 
-# while username != "Kshitij_Panday" and password != "Kshitij123":
+# while username != "bxbx" and password != "1234":
 #     username = input("Enter username: ")
 #     password = input("Enter password: ")
 
@@ -33,7 +33,7 @@
 # print("Sum is:", sum)
 
 
-# name = "Kshitij"
+# name = "bxbx"
 
 # newname = " "
 
